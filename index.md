@@ -33,4 +33,4 @@ Really likes video games. Like *really really* likes video games
 - [ ] Build my own FPV drone
 - [ ] Figure out if there's a club for drones
 - [X] Get Drunk
-- [ ] Create an arbitrary task lists for lab 0 that also [demonstrates section links](https://github.com/3rr0r51/CSE-110-Lab-0/blob/User-Page-text/index.md#who-i-am)
+- [X] Create an arbitrary task lists for lab 0 that also [demonstrates section links](https://github.com/3rr0r51/CSE-110-Lab-0/blob/User-Page-text/index.md#who-i-am)
