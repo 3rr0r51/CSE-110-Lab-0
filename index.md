@@ -1,6 +1,6 @@
 # John Liu User Page
 > "Man do I love to be misquoted" - Sun Tzu\
-> ![](https://i.redd.it/scupjyjwyqs11.jpg)
+![](https://i.redd.it/scupjyjwyqs11.jpg)
 ## Who I am
 A 20 year old tech enthusiasts who likes to build and code things, but likes to break it more.\
 Also has a really chill sense of humor
@@ -15,6 +15,13 @@ Currently taking CSE 110 and [working on a lab that requires a user page](Lab0.m
 
 ### Aerial Software Lead of Triton Robotics
 Join Triton Robotics [Today](https://tritonrobotics.ucsd.edu/)
+#### Example Code
+```
+leftFlywheel.set(60);
+rightFlywheel.set(60); 
+indexer.setPower(rY*4);
+printf("MANUAL-PWR:%d VELO:%d\n", indexer.powerOut, indexer.getData(VELOCITY));
+```
 
 ## Hobbies and Interest
 Really likes video games. Like *really really* likes video games
