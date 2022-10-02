@@ -1,9 +1,13 @@
 # John Liu User Page
-![](https://i.redd.it/scupjyjwyqs11.jpg)
-> "Man do I love to be misquoted" - Sun Tzu
+![](screenshots/Me%201.jpeg)
+![](screenshots/Me%202.jpeg)
+![](screenshots/Me%203.jpeg)
+![](screenshots/Me%204.jpeg)
 ## Who I am
 A 20 year old tech enthusiasts who likes to build and code things, but likes to break it more.\
 Also has a really chill sense of humor
+![](https://i.redd.it/scupjyjwyqs11.jpg)
+> "Man do I love to be misquoted" - Sun Tzu
 ## College
 Computer Enginnering Major at [University of California San Diego](https://ucsd.edu/).\
 Currently taking CSE 110 and [working on a lab that requires a user page](Lab0.md).
