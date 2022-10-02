@@ -1,6 +1,6 @@
 # John Liu User Page
 ![](https://i.redd.it/scupjyjwyqs11.jpg)
-> "Man do I love to be misquoted" - Sun Tzu\
+> "Man do I love to be misquoted" - Sun Tzu
 ## Who I am
 A 20 year old tech enthusiasts who likes to build and code things, but likes to break it more.\
 Also has a really chill sense of humor
